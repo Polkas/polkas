@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Developer, Statistician, Data Scientist and Assertive Team Player.
+Developer, Statistician, Data Scientist and Agile Team Player.
 
 
 ## 🌐 Socials:
