@@ -2,7 +2,7 @@
 
 Developer, Statistician, Data Scientist and Agile Team Player.
 
-[My Blog](https://polkas.github.io/)
+[My Agile Data Science Blog](https://polkas.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maciej-nasinski) 
