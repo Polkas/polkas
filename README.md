@@ -1,4 +1,4 @@
-# Maciej Nasinski
+# Maciej Nasinski, PhD
 
 Leader | Product Owner | Developer | Full Stack | Statistician | Researcher
 
@@ -9,11 +9,14 @@ I build and lead engineering teams delivering high-impact data science and AI so
 ---
 
 ## Connect
+
+
 [LinkedIn](https://linkedin.com/in/maciej-nasinski) | [Stack Overflow](https://stackoverflow.com/users/5442527/polkas)
 
 ---
 
 ## Leadership & Process
+
 ![Agile Leadership](https://img.shields.io/badge/Agile_Leadership-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![AI Fluency](https://img.shields.io/badge/AI_Fluency-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
@@ -22,6 +25,7 @@ I build and lead engineering teams delivering high-impact data science and AI so
 ---
 
 ## Data & Systems
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,6 +38,7 @@ I build and lead engineering teams delivering high-impact data science and AI so
 ---
 
 ## Web Development
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
